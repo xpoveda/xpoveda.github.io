@@ -1,0 +1,8 @@
+---
+layout: default 
+
+---
+<div class="markdown-body">
+{% capture pig %}{% include pig.md %}{% endcapture %}
+{{ pig  | markdownify }}
+</div>
