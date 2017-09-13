@@ -36,8 +36,13 @@ ubuntu@ubuntu:~/misproyectos/xpoveda.github.io$ tree
 
 ---
 
-*Si quieres más información la puedes encontrar en:*
+*Nota 1, Si quieres más información la puedes encontrar en:*
+
 [Smashing magazine - Build blog jekyll github pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
+*Nota 2, Recuerda borrar cache de navegador si realizas alguna modificación por Github pages tiene problemas de refresco*
+
+*Nota 3, En "Settings" del repo de github podrás ver si se ha producido algún error al compilarse las páginas Jekyll*
 
 ---
 
