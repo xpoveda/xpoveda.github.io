@@ -3,15 +3,17 @@
 
 ## Introducción
 
-En esta página utilizamos bootstrap como estructura de página así como el motor de plantillas jekill.
-Aprovechamos jekill para poder escribir directamente nuestras páginas en markdown, aunque tambien se podrian escribir directamente en html.
+En esta web utilizamos conjuntamente [Bootstrap](http://getbootstrap.com/) y [Jekyll](https://jekyllrb.com/) como motor de renderizado de página.
+
+Con Bootstrap nuestra web puede ser responsive y dotarla de gran funcionalidad con los css y js y nos proporciona.
+
+Con Jekyll podemos escribir directamente parte del contenido de nuestra página en [Markdown](https://daringfireball.net/projects/markdown/), cosa que simplifica el trabajo de escritura
+y nos proporciona la información de forma muy clara.
+
 Hemos importado de otro proyecto un markdown.css para poder renderizar las páginas de la forma mas "bonita" posible.
-No es posible utilizar directamente los css que utiliza github ya que entran en conflicto con los de bootstrap.
+No es posible utilizar directamente los css que utiliza Github ya que entran en conflicto con los de Bootstrap.
 
-La forma de escribir markdown no es exactamente la misma que se utiliza en github ya que jekill no es totalmente compatible.
-Por ejemplo el h1 sólo se acepta mediante el uso de "#" no de una linea con "=" debajo del texto como si acepta directamente github.
-
-[Aquí](https://xpoveda.github.io/articulo1) puedes ver un ejemplo de renderizado directo con markdown.
+Puedes ver un [ejemplo de renderizado directo con markdown](https://xpoveda.github.io/articulo1) en otra de las páginas de esta web.
 
 ## Como es la estructura de esta página
 
@@ -19,26 +21,24 @@ El código seria el siguiente:
 ```bash
 ubuntu@ubuntu:~/misproyectos/xpoveda.github.io$ tree
 .
+├── index.html
 ├── articulo1.html
 ├── _config.yml
-├── css
-│   ├── github-markdown.css
-│   ├── main.css
-│   └── markdown.css
-├── git_sube.sh
 ├── _includes
 │   ├── articulo1.md
 │   └── index.md
-├── index.html
 ├── _layouts
 │   └── default.html
-└── traspasa.sh
+├── css
+│   └── markdown.css
+└── git_sube.sh
 ```
 
 ---
 
 *Si quieres más información la puedes encontrar en:*
 [Smashing magazine - Build blog jekyll github pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
 ---
 
 ![octojekyll-opt](https://user-images.githubusercontent.com/13355927/30377816-736912b2-9891-11e7-8690-2b3113ebaef2.jpg)
