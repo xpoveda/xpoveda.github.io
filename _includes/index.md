@@ -1,5 +1,7 @@
-﻿
-# xpoveda.github.io
+﻿xpoveda.github.io
+=================
+
+## Introducción
 
 En esta página utilizamos bootstrap como estructura de página así como el motor de plantillas jekill.
 Aprovechamos jekill para poder escribir directamente nuestras páginas en markdown, aunque tambien se podrian escribir directamente en html.
@@ -10,6 +12,8 @@ La forma de escribir markdown no es exactamente la misma que se utiliza en githu
 Por ejemplo el h1 sólo se acepta mediante el uso de "#" no de una linea con "=" debajo del texto como si acepta directamente github.
 
 [Aquí](https://xpoveda.github.io/articulo1) puedes ver un ejemplo de renderizado directo con markdown.
+
+## Como es la estructura de esta página
 
 El código seria el siguiente:
 ```bash
