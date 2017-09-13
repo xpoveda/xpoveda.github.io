@@ -1,11 +1,13 @@
 ﻿
-xpoveda.github.io
-=================
+# xpoveda.github.io
 
 En esta página utilizamos bootstrap como estructura de página así como el motor de plantillas jekill.
 Aprovechamos jekill para poder escribir directamente nuestras páginas en markdown, aunque tambien se podrian escribir directamente en html.
 Hemos importado de otro proyecto un markdown.css para poder renderizar las páginas de la forma mas "bonita" posible.
 No es posible utilizar directamente los css que utiliza github ya que entran en conflicto con los de bootstrap.
+
+La forma de escribir markdown no es exactamente la misma que se utiliza en github ya que jekill no es totalmente compatible.
+Por ejemplo el h1 sólo se acepta mediante el uso de "#" no de una linea con "=" debajo del texto como si acepta directamente github.
 
 [Aquí](https://xpoveda.github.io/articulo1) puedes ver un ejemplo de renderizado directo con markdown.
 
