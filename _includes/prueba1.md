@@ -1,5 +1,5 @@
-An h1 header esto es una prueba de cache
-========================================
+An h1 header
+============
 
 Paragraphs are separated by a blank line.
 
