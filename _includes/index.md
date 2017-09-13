@@ -1,5 +1,7 @@
 ﻿
 
+[Stack Overflow](http://www.stackoverflow.com)
+
 1. Configurando Ubuntu para trabajar con proxy corporativo
     * https://github.com/xpoveda/howto/tree/master/proxy
 
