@@ -10,7 +10,7 @@ Con Bootstrap nuestra web puede ser responsive y dotarla de gran funcionalidad c
 Con Jekyll podemos escribir directamente parte del contenido de nuestra página en [Markdown](https://daringfireball.net/projects/markdown/), cosa que simplifica el trabajo de escritura
 y nos proporciona la información de forma muy clara.
 
-Hemos importado de otro proyecto un markdown.css para poder renderizar las páginas de la forma mas "bonita" posible.
+Hemos importado de otro proyecto un `markdown.css` para poder renderizar las páginas de la forma mas "bonita" posible.
 No es posible utilizar directamente los css que utiliza Github ya que entran en conflicto con los de Bootstrap.
 
 Puedes ver un [ejemplo de renderizado directo con markdown](https://xpoveda.github.io/articulo1) en otra de las páginas de esta web.
