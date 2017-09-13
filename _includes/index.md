@@ -2,7 +2,7 @@
 
 [Stack Overflow](http://www.stackoverflow.com)
 
-1. Configurando Ubuntu para trabajar con proxy corporativo
+1. Configurando Ubuntu para trabajar con proxy corporativo 
     * https://github.com/xpoveda/howto/tree/master/proxy
 
 2. Configurando Ubuntu xenial desde 0
