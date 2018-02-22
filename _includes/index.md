@@ -1,7 +1,7 @@
 ﻿xpoveda.github.io
 =================
 <p align="center">
-<img src="https://user-images.githubusercontent.com/13355927/30377816-736912b2-9891-11e7-8690-2b3113ebaef2.jpg"></img>
+<img src="https://user-images.githubusercontent.com/13355927/30377816-736912b2-9891-11e7-8690-2b3113ebaef2.jpg" />
 </p>
 ## Últimos proyectos
 
