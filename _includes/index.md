@@ -7,7 +7,9 @@
 
 * [https://github.com/xpoveda/oapc-server](https://github.com/xpoveda/oapc-server)
 * [https://github.com/xpoveda/oapc-front](https://github.com/xpoveda/oapc-front)
+* [https://github.com/xpoveda/oapc-charts](https://github.com/xpoveda/oapc-charts)
 * [https://github.com/xpoveda/oapc/docs](https://github.com/xpoveda/oapc/tree/master/docs)
+* [https://github.com/xpoveda/oapc-server/docs](https://github.com/xpoveda/oapc-server/docs)
 * [https://github.com/xpoveda/howto](https://github.com/xpoveda/howto)
 
 ## Introducción
