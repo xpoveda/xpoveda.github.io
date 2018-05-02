@@ -11,6 +11,7 @@
 * [https://github.com/xpoveda/oapc/docs](https://github.com/xpoveda/oapc/tree/master/docs)
 * [https://github.com/xpoveda/oapc-server/docs](https://github.com/xpoveda/oapc-server/tree/master/docs)
 * [https://github.com/xpoveda/howto](https://github.com/xpoveda/howto)
+* [https://github.com/xpoveda/howto/tree/master/aws](https://github.com/xpoveda/howto/tree/master/aws)
 
 ## Introducción
 
